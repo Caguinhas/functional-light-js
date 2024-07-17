@@ -1,5 +1,5 @@
 # Functional-Light JavaScript
-# Appendix C: FP Libraries
+# Apêndice C: FP Libraries
 
 If you've been reading this book from start to finish, take a minute to stop and look back how far you've come since [Chapter 1](ch1.md). It's been quite a journey. I hope you've learned a lot and gained insight into thinking functionally for your own programs.
 
